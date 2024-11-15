@@ -1,5 +1,3 @@
-# Develop By : VESLIN ANISH A
-# Req No : 212223240175
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
@@ -27,6 +25,8 @@ To Implement ELGAMAL ALGORITHM
 
 ## Program:
 ```
+NAME:VESLIN ANISH A
+REGISTER NO:212223240175
 #include <stdio.h>
 #include <math.h>
 
