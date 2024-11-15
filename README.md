@@ -1,5 +1,5 @@
-# Develop By : AADHITHYA M
-# Req No : 212222100001
+# Develop By : VESLIN ANISH A
+# Req No : 212223240175
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
